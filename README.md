@@ -30,8 +30,8 @@ Fine-tuning de uma LLM local com GPU para responder perguntas sobre a FIAP e con
 ## Como rodar o frontend
 
 ```bash
-pip install -r frontend/requirements.txt
-python frontend/app.py
+pip install -r requirements.txt
+python app.py
 ```
 
 ## Stack
