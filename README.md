@@ -25,9 +25,10 @@ A documentação completa, com prints e tabelas com os resultados obtidos durant
 ## Como rodar o treinamento
 
 1. Abrir `notebook_colab.ipynb` no Google Colab
-2. Ambiente de execução > Alterar tipo > GPU T4
-3. Rodar as células em ordem
-4. Upload de `dataset/qa_fiap.jsonl` quando pedido
+2. Adicionar `qa_fiap.jsonl` ao ambiente do Colab
+3. Ambiente de execução > Alterar tipo > GPU T4
+4. Rodar as células em ordem
+5. Upload de `dataset/qa_fiap.jsonl` quando pedido
 
 ## Como rodar o frontend
 
