@@ -12,7 +12,7 @@ Fine-tuning de uma LLM local com GPU para responder perguntas sobre a FIAP e con
 | Camilly Breitbach Ishida | RM551474 |
 | Julia Leite Galvão | RM550201 |
 
-A documentação completa, com prints e tabelas com os resultados obtidos durante o treinamento, estão no arquivo `resultados.docx`
+A documentação completa, com prints e tabelas com os resultados obtidos durante o treinamento, está no arquivo `resultados.docx`
 
 ## Modelo e técnica
 
