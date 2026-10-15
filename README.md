@@ -2,7 +2,7 @@
 
 Fine-tuning de uma LLM local com GPU para responder perguntas sobre a FIAP e conceitos de IA.
 
-> Checkpoint 6 — Generative AI. Entrega: 15/10/2026.
+> Checkpoint 6 — Generative AI
 
 ## Integrantes do grupo
 
@@ -11,6 +11,8 @@ Fine-tuning de uma LLM local com GPU para responder perguntas sobre a FIAP e con
 | Aline Fernandes Zeppelini | RM97966 |
 | Camilly Breitbach Ishida | RM551474 |
 | Julia Leite Galvão | RM550201 |
+
+A documentação completa, com prints e tabelas com os resultados obtidos durante o treinamento, estão no arquivo `resultados.docx`
 
 ## Modelo e técnica
 
